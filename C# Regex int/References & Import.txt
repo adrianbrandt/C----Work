@@ -1,0 +1,12 @@
+External Refferences:
+System.dll
+System.Data.dll
+System.Xml.dll
+System.Drawing.dll
+System.Runtime.dll
+
+Namespace Imports:
+System
+System.Drawing
+System.Data
+System.Text.RegularExpressions
